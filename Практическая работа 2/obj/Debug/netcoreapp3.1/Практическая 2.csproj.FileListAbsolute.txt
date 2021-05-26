@@ -1,0 +1,13 @@
+C:\Users\student\source\repos\Практическая 2\bin\Debug\netcoreapp3.1\Практическая 2.exe
+C:\Users\student\source\repos\Практическая 2\bin\Debug\netcoreapp3.1\Практическая 2.deps.json
+C:\Users\student\source\repos\Практическая 2\bin\Debug\netcoreapp3.1\Практическая 2.runtimeconfig.json
+C:\Users\student\source\repos\Практическая 2\bin\Debug\netcoreapp3.1\Практическая 2.runtimeconfig.dev.json
+C:\Users\student\source\repos\Практическая 2\bin\Debug\netcoreapp3.1\Практическая 2.dll
+C:\Users\student\source\repos\Практическая 2\bin\Debug\netcoreapp3.1\Практическая 2.pdb
+C:\Users\student\source\repos\Практическая 2\obj\Debug\netcoreapp3.1\Практическая 2.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Практическая 2\obj\Debug\netcoreapp3.1\Практическая 2.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\Практическая 2\obj\Debug\netcoreapp3.1\Практическая 2.AssemblyInfo.cs
+C:\Users\student\source\repos\Практическая 2\obj\Debug\netcoreapp3.1\Практическая 2.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Практическая 2\obj\Debug\netcoreapp3.1\Практическая 2.dll
+C:\Users\student\source\repos\Практическая 2\obj\Debug\netcoreapp3.1\Практическая 2.pdb
+C:\Users\student\source\repos\Практическая 2\obj\Debug\netcoreapp3.1\Практическая 2.genruntimeconfig.cache
